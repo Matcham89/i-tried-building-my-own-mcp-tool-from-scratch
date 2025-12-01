@@ -1,5 +1,5 @@
 ---
-title: I Tried Building My Own Mcp Tool From Scratch
+title: I Tried Building My Own MCP Tool From Scratch
 ---
 
 # I Tried Building My Own MCP Tool From Scratch
